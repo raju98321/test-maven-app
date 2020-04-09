@@ -54,7 +54,7 @@
     <repository>
         <id>central</id>
         <name>WIN-MO81L3ES6DO-releases</name>
-        <url>http://10.10.1.135:8081/artifactory/ivy-dev-local</url>
+        <url>http://10.10.1.135:8082/artifactory/ivy-dev-local</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
